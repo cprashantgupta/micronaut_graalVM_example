@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: demograalVM
+netty:
+  default:
+    allocator:
+      max-order: 3
